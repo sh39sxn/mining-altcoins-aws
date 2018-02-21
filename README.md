@@ -1,5 +1,5 @@
 # ltc-mining-aws
-This repo is contains scripts for mining Litecoins (LTC) on AWS.
+This repo contains shell scripts for mining Litecoins (LTC) on Ubuntu 16.04.
 
 ## Getting Started
 
