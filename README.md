@@ -1,11 +1,12 @@
 # ltc-mining-aws
-This repo contains shell scripts for mining Litecoins (LTC) on Ubuntu 16.04.
+This repo contains shell scripts for mining different Altcoins on Ubuntu 16.04.
 
 ## Getting Started
 
-These instructions will let you mining Litecoins (LTC) on Ubuntu 14.04 using Nvidia graphic card (GPU).
+These instructions will let you mining Altcoins on Ubuntu 14.04 using Nvidia graphic card (GPU).
 This projected is tested on GPU instances running on Amazon Web Services (AWS).
 
+Currently only Monero (XMR) are mined.
 
 ### Prerequisites
 
