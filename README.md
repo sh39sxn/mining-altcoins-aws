@@ -56,12 +56,7 @@ Explain how to run the automated tests for this system
 
 ## Built With
 
-* [CUDA Toolkit](hhttps://developer.nvidia.com/cuda-toolkit-archive) - The web framework used
-
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) - The web framework used
 
 
 ## License
