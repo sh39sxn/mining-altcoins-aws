@@ -50,8 +50,9 @@ You should see an output similar to:
 
 
 ## Donation
+Thank's for any donations to extend this repo for mining more altcoins!
 
-Per default 
+XMR address: 42hnfZMm78hPwKmjhN6pNffHpnaUBjCzddGctFRN5yTVHCmm4hFJcQaDgffcjUv6Q3GfirfyyqHLijfnDrJyyntwMSLZc6p
 
 ## Built With
 
