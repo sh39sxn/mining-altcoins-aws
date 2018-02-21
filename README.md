@@ -37,7 +37,7 @@ cd ltc-mining-aws
 
 At the end of this script a reboot will be done.
 
-After rebooting please change the default email address md8Nf41@gmail.com in the script run-ccminer.sh to point to your minergate account email address.
+After rebooting please change the default email address 'md8Nf41@gmail.com' in the script (run-ccminer.sh) to point to your minergate account email address.
 
 ```
 cd ltc-mining-aws
