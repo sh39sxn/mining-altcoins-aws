@@ -27,7 +27,8 @@ clone this project:
 git clone https://github.com/sh39sxn/ltc-mining-aws.git
 ```
 
-Then change to this project and run setup.sh
+Then change to this project and run setup.sh. This will need several minutes, mainly because of building ccminer. I'm using the version published at https://github.com/tpruvot/ccminer
+
 
 ```
 cd ltc-mining-aws
@@ -46,17 +47,14 @@ cd ltc-mining-aws
 You should see an output similar to:
 
 
+## Donation
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
+Per default 
 
 ## Built With
 
-* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) - The web framework used
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive)
+* [ccminer](https://github.com/tpruvot/ccminer)
 
 
 ## License
