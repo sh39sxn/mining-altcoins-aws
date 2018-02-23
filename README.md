@@ -15,7 +15,7 @@ What things you need to install the software and how to install them
 ```
 Nvidia Graphic Card with compute capability >= 3.0
 Ubuntu 16.04
-Account at minergate.com (mining pool)
+Account at https://minergate.com/ (mining pool)
 ```
 
 ### Installing
