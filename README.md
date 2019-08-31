@@ -1,4 +1,4 @@
-# ltc-mining-aws
+# mining-altcoins-aws
 This repo contains shell scripts for mining different Altcoins on Ubuntu 16.04.
 
 ## Getting Started
